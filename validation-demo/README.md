@@ -34,7 +34,7 @@ python -m pytest -q
 | 檔案 | 用途 |
 | --- | --- |
 | `evidence_validation.py` | Pydantic 模型與虛構資料示範 |
-| `tests/test_evidence_validation.py` | 正常與異常輸入測試 |
+| `test_evidence_validation.py` | 正常與異常輸入測試 |
 | `requirements.txt` | 執行與測試所需依賴 |
 
 ## 展示目的與開發說明
